@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="github" max_length="40" name="x_218942_test_github" type="collection">
+        <element label="github1" max_length="40" name="github1" type="string"/>
+        <element label="github2" max_length="40" name="github2" type="string"/>
+        <element label="github3" max_length="40" name="github3" type="string"/>
+    </element>
+</database>
